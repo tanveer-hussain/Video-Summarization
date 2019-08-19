@@ -8,9 +8,6 @@ https://www.sciencedirect.com/science/article/pii/S0167865518303842
 Demo Results
 ========
 
-Intermediate Processing Video with Output Generation
-========
-
 Repository Details
 =========
 This repository contains two root folders: 1) VS-Matlab and 2) VS-Python. This paper has been implemented in both these languages.
@@ -40,6 +37,10 @@ Further you need to install scikit-learn, tkinter, and numpy which are easy to i
 
 Executing/Running the Code
 =========
+Running Video
+- https://www.youtube.com/watch?v=deqwQ-7sumU&feature=youtu.be
+
+
 Once you have all the dependencies installed and the models are downloaded, then running the code is pretty easy.
 
 1. Open file "main.py" in any of your favourite editor [I would recommend spyder IDE]
