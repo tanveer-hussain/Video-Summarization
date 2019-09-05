@@ -67,6 +67,8 @@ If you are interested in Video Summarization domain you may find some of my othe
 <pre>
 <code>
 Hussain, Tanveer, Khan Muhammad, Amin Ullah, Zehong Cao, Sung Wook Baik, and Victor Hugo C. de Albuquerque. "Cloud-Assisted Multi-View Video Summarization using CNN and Bi-Directional LSTM." IEEE Transactions on Industrial Informatics (2019).
+
+T. Hussain, K. Muhammad, J. D. Ser, S. W. Baik, and V. H. C. d. Albuquerque, "Intelligent Embedded Vision for Summarization of Multi-View Videos in IIoT," IEEE Transactions on Industrial Informatics, pp. 1-1, 2019.
 </code>
 </pre>
 
