@@ -1,4 +1,3 @@
-# Video-Summarization
 Efficient CNN based summarization of surveillance videos for resource-constrained devices
 ==================
 Paper
@@ -59,8 +58,13 @@ Caffe models can be downloaded from the link below:
 
 VS-Matlab
 =======
+These codes will be uploaded soon.
 
-Hope everything works fine for you, if there is any problem, feel free to contact me
+
+Contact Me
+========
+Hope everything works fine for you, if there is any problem, feel free to contact me at (tanveerkhattak3797@gmail.com)
+
 
 Citation
 =======
