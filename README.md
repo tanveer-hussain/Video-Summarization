@@ -8,7 +8,7 @@ Repository Details
 =========
 This repository contains two root folders: 1) VS-Python and 2) VS-Matlab. This paper has been implemented in both these languages.
 
-VS-Python
+VS-Python (1)
 =======
 The python implementation of this paper has some prerequisites that are necassary for running the code.
 The two most important dependencies are: OpenCV >= 3.4 and Caffe (deep learning framework).
@@ -53,7 +53,7 @@ Caffe models can be downloaded from the link below:
 - https://drive.google.com/drive/folders/1p8M3rjWF8h5km7uyQkYaxwo0ELx4OFsb?usp=sharing
 
 
-VS-Matlab
+VS-Matlab (2)
 =======
 These codes will be uploaded soon.
 
