@@ -6,7 +6,7 @@ https://www.sciencedirect.com/science/article/pii/S0167865518303842
 
 Repository Details
 =========
-This repository contains two root folders: 1) VS-Matlab and 2) VS-Python. This paper has been implemented in both these languages.
+This repository contains two root folders: 1) VS-Python and 2) VS-Matlab. This paper has been implemented in both these languages.
 
 VS-Python
 =======
