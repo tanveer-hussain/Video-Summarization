@@ -36,10 +36,6 @@ Here is the YouTube link:
 Furthermore, you need to install scikit-learn, tkinter, and numpy which are easy to install and can be done through just pip command.
 
 Executing/Running the Code
-
-Caffe models can be downloaded from the link below:
-
-https://drive.google.com/drive/folders/1p8M3rjWF8h5km7uyQkYaxwo0ELx4OFsb?usp=sharing
 =========
 Running Video
 - https://www.youtube.com/watch?v=deqwQ-7sumU&feature=youtu.be
@@ -53,6 +49,13 @@ Once you have all the dependencies installed and the models are downloaded, then
 4. If everything is fine, programming will start running and will save the candidate keyframes in folder as "keyframes\temp\" (you can change the path according to your requirement
 5. After this process is completed, run "postprocessing.py" which will remove redundant frames.
 6. You can change the threshold for shot segmentation on line number 77 and path of the output frames at line number 88.
+
+Downloading Caffe models (weights)
+==========
+Caffe models can be downloaded from the link below:
+
+- https://drive.google.com/drive/folders/1p8M3rjWF8h5km7uyQkYaxwo0ELx4OFsb?usp=sharing
+
 
 VS-Matlab
 =======
