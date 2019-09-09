@@ -33,9 +33,13 @@ Here is the YouTube link:
 
 - https://www.youtube.com/watch?v=nrzAF2sxHHM
 
-Further you need to install scikit-learn, tkinter, and numpy which are easy to install and can be done through just pip command.
+Furthermore, you need to install scikit-learn, tkinter, and numpy which are easy to install and can be done through just pip command.
 
 Executing/Running the Code
+
+Caffe models can be downloaded from the link below:
+
+https://drive.google.com/drive/folders/1p8M3rjWF8h5km7uyQkYaxwo0ELx4OFsb?usp=sharing
 =========
 Running Video
 - https://www.youtube.com/watch?v=deqwQ-7sumU&feature=youtu.be
