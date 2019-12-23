@@ -80,6 +80,11 @@ T. Hussain, K. Muhammad, J. D. Ser, S. W. Baik, and V. H. C. d. Albuquerque, "In
 
 K. Muhammad, T. Hussain, M. Tanveer, G. Sannino and V. H. C. de Albuquerque, "Cost-Effective Video Summarization using Deep CNN with Hierarchical Weighted Fusion for IoT Surveillance Networks," in IEEE Internet of Things Journal.
 doi: 10.1109/JIOT.2019.2950469
+
+K. Muhammad, H. Tanveer, J. Del Ser, V. Palade and V. H. C. De Albuquerque, "DeepReS: A Deep Learning-based Video Summarization Strategy for Resource-Constrained Industrial Surveillance Scenarios," in IEEE Transactions on Industrial Informatics.
+doi: 10.1109/TII.2019.2960536
+keywords: {Big Data;Computer Vision;Deep Learning;Video Summarization;IIoT;Resource-Constrained Devices},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8936419&isnumber=4389054
 </code>
 </pre>
 
