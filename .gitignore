@@ -1,0 +1,16 @@
+.ipynb_checkpoints
+__pycache__
+.vscode
+.DS_Store
+*.prm
+*.pth
+dataset
+*.hdf5
+*.mat
+*.jpg
+*.png
+*.pt
+*.h5
+./dataset
+*.mp4
+*.avi
